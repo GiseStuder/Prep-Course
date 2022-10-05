@@ -1,21 +1,64 @@
+div {
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+
 h1 {
-    color: cornflowerblue
+    justify-content: center;
+    color: black;
+    font-size: 40px;
+
+
 }
 
 img {
+    text-align: center;
     width: 400px;
+
+
+
 }
 
 #thirdDiv {
+
+    text-align: center;
+    background-color: aquamarine;
+    padding: 50px;
+    border: 5px solid blue;
+
+
+}
+
+#spanId {
+    display: block;
+    justify-content: center;
+    font-size: 18px;
+    margin: 50px;
+
+
+}
+
+body {
+   
+    background-image: url(https://thumbs.dreamstime.com/b/explosi%C3%B3n-del-polvo-color-aislada-en-el-fondo-blanco-106101677.jpg);
+    background-repeat: no-repeat;
+}
+
+#cvDiv {
+    display: flex;
+    justify-content: center;
     height: 600px;
     width: 500px;
     background-color: aquamarine;
     padding: 50px;
     border: 5px solid blue;
+
 }
 
-#spanId {
-    font-size: 18px;
-    margin: 50px;
-
+div {
+    display: block;
+    justify-content: center;
+    text-align: center;
 }
